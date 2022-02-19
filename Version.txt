@@ -1,1 +1,1 @@
-data : {Version : 1.1}
+data = {Version : 1.1}
